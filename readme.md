@@ -148,7 +148,7 @@ Add screenshots here:
 
 **Katyayani Tiwari**
 
-B.Tech Electrical Engineering (VLSI Design & Technology)
+B.Tech Electronics Engineering (VLSI Design & Technology)
 
 Vivekananda Institute of Professional Studies – Technical Campus (VIPS-TC)
 
