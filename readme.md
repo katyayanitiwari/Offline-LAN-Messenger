@@ -106,18 +106,6 @@ client.exe
 
 Enter your username after connecting.
 
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-- Login Page
-- Chat Interface
-- Server Console
-- Broadcast Messaging
-- Private Messaging
-- File Sharing
 
 ---
 
