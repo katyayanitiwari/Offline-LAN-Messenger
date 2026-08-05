@@ -1,0 +1,17 @@
+katyayani joined the server.
+vansh joined the server.
+[vansh] : hello
+[katyayani] : hello
+vansh joined the server.
+[vansh] : PS C:\Users\Katyayani\New folder\lanchat\old> notepad test.txt
+[vansh] : PS C:\Users\Katyayani\New folder\lanchat\old> /sendfile Vansh test.txt
+[vansh] : as the name of a cmdlet, function, script file, or 
+[vansh] : operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.At line:1 char:1
+[vansh] : + /sendfile Vansh test.txt+ ~~~~~~~~~    + CategoryInfo          : ObjectNotFound: (/send    file:String) [], CommandNotFoundException    + FullyQualifiedErrorId : CommandNotFoundExcepti    on 
+[vansh] : PS C:\Users\Katyayani\New folder\lanchat\old> 
+vansh disconnected.
+katyayani disconnected.
+vansh disconnected.
+/sendfile Vansh test.txt joined the server.
+[/sendfile Vansh test.txt] : hi
+[/sendfile Vansh test.txt] : hi

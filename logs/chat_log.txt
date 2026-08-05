@@ -1,0 +1,19 @@
+katyani joined the server.
+[katyani] : team
+hi i am bot joined the server.
+vrinda joined the server.
+[vrinda] : bot
+vrinda joined the server.
+[vrinda] : no
+vrinda joined the server.
+[vrinda] : no
+bot joined the server.
+[bot] : hello
+kanchi joined the server.
+[kanchi] : hi
+[kanchi] : yes
+[kanchi] : yes
+[kanchi] : wuhoo
+[kanchi] : /group create Team
+[kanchi] : /group join Team
+[kanchi] : /group Team Hello
